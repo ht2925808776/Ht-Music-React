@@ -1,3 +1,10 @@
+# 该项目是仿照网易云音网站
+## 目前就做了首页部分内容，后期有时间会继续编写
+## 该项目使用React编写，网站接口API使用NeteaseCloudMusicApi。
+NeteaseCloudMusicApi地址：(https://github.com/Binaryify/NeteaseCloudMusicApi)
+
+### 运行此项目，请先把NeteaseCloudMusicApi服务跑起来，不然接口没有返回值，项目报错。
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
