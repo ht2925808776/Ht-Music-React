@@ -1,0 +1,8 @@
+export const APP_PLAY_BAR="play/APP_PLAY_BAR";
+
+export const APP_PLAYlIST="play/APP_PLAYlIST";
+export const APP_CURRENTSONGINDEX="play/APP_CURRENTSONGINDEX";
+
+export const APP_PLAYTYPE="play/APP_PLAYTYPE";
+export const APP_LYCRILIST="play/APP_LYCRILIST";
+export const APP_CURRENT_LYCRI_INDEX="play/APP_CURRENT_LYCRI_INDEX";
